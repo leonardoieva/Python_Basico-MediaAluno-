@@ -1,5 +1,3 @@
-Python Básico: (Média de Aluno)
-
 print ("Média Semestral do Cursinho de Inglês")
 
 aluno = (input("Nome do(a) Aluno(a): "))
